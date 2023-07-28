@@ -1,0 +1,26 @@
+{
+    "id": "4610C899",
+    "path": "~/bin1site/iao_starter_website/netlify.toml",
+    "project_path": "netlify.toml",
+    "type": "toml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1690570310614.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1690547427,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1690547427,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: My Website website
+title: My Website
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -16,10 +16,8 @@ menu:
       url: /about/
     - name: GitHub
       url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
     - name: Contact
-      number: 08119535283
+      number: /contact/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
